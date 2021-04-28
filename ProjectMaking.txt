@@ -1,0 +1,43 @@
+-Login
+-Register
+
+User and Admin 
+-Login
+-Logout
+-View all product
+-View Single product by id 
+
+User only 
+-Add to Cart
+-View Cart
+-Empty Cart (not yet implemented on the backend)
+-Delete specific item on the Cart (not yet implement)
+-Checkout
+
+Admin only
+-Create an item
+-Update an item
+-Delete an item
+
+50%
+Login, Logout, View all,View single item, add to cart , View cart, create an item 
+
+75%
+Login(ok) , Logout(ok), View all(ok) , View Single(ok)  ,add to cart(ok) , view cart(ok) , checkout(ok), create(ok),update(ok) , delete an item(ok)
+
+90%
+Login , Logout, View all , View Single,add to cart , view cart , checkout, create,update , delete an item
++ 
+(Frontend-Backend)
+-You need to implement deleting a specific item on cart 
+-Empty cart 
+
+100%
+Login , Logout, View all , View Single,add to cart , view cart , checkout, create,update , delete an item
++ 
+(Frontend-Backend)
+-You need to implement deleting a specific item on cart 
+-Empty cart
++
+Front-end and backend should be hosted OR make the UI Aesthetically pleasing 
+(DEADLINE APRIL 26)
