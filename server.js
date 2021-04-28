@@ -17,7 +17,7 @@ mongoose.connect("mongodb+srv://danny123:123123123@ecommerce-mern.syp9a.mongodb.
 //Check if we are connected to the Database
 mongoose.connection.once("open", ()=> console.log("We are connected to the Database"))
 
-app.use(cors())
+// app.use(cors())
 app.use(express.json())
 app.use(morgan('dev'))
 
